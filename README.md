@@ -2,5 +2,6 @@
 
 Things to install:
 ```
-sudo apt install libimage-exiftool-perl
+apt-get install libimage-exiftool-perl
+apt-get install redis-tools
 ```
