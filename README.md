@@ -16,5 +16,8 @@ git clone https://github.com/rebootuser/LinEnum.git
 git clone https://github.com/DominicBreuker/pspy
 git clone https://github.com/sleventyeleven/linuxprivchecker.git
 git clone https://github.com/codingo/Reconnoitre.git
-https://github.com/Tib3rius/AutoRecon.git
+git clone https://github.com/Tib3rius/AutoRecon.git
+
+
+cd AutoRecon && python3 -m pip install -r requirements.txt
 ```
