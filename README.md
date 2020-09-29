@@ -2,8 +2,11 @@
 
 Things to install:
 ```
-apt-get install libimage-exiftool-perl
-apt-get install redis-tools
-apt-get install steghide
+apt update
+apt install openvpn
+apt install libimage-exiftool-perl
+apt install redis-tools
+apt install steghide
 apt install ltrace strace
+apt install terminator
 ```
