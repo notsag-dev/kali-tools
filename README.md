@@ -8,6 +8,7 @@ apt install libimage-exiftool-perl
 apt install redis-tools
 apt install steghide
 apt install ltrace strace
+apt install fcrackzip
 apt install terminator
 
 mkdir repositories && cd repositories
