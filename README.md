@@ -12,6 +12,7 @@ apt install fcrackzip
 apt install terminator
 apt install gobuster
 apt install pngcheck
+apt install shellter
 
 mkdir repositories && cd repositories
 git clone https://github.com/mzet-/linux-exploit-suggester
