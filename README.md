@@ -11,6 +11,7 @@ apt install ltrace strace
 apt install fcrackzip
 apt install terminator
 apt install gobuster
+apt install pngcheck
 
 mkdir repositories && cd repositories
 git clone https://github.com/mzet-/linux-exploit-suggester
