@@ -13,6 +13,7 @@ apt install terminator
 apt install gobuster
 apt install pngcheck
 apt install shellter
+apt install powershell
 
 mkdir repositories && cd repositories
 git clone https://github.com/mzet-/linux-exploit-suggester
