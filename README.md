@@ -14,6 +14,7 @@ apt install gobuster
 apt install pngcheck
 apt install shellter
 apt install powercat
+apt install theharvester
 
 mkdir repositories && cd repositories
 git clone https://github.com/mzet-/linux-exploit-suggester
