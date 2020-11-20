@@ -23,6 +23,7 @@ git clone https://github.com/DominicBreuker/pspy
 git clone https://github.com/sleventyeleven/linuxprivchecker.git
 git clone https://github.com/codingo/Reconnoitre.git
 git clone https://github.com/Tib3rius/AutoRecon.git
+git clone https://github.com/corelan/mona
 
 # Install vimrc
 git clone --depth=1 https://github.com/amix/vimrc.git /opt/vim_runtime
