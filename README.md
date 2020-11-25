@@ -26,6 +26,10 @@ git clone https://github.com/pentestmonkey/unix-privesc-check
 git clone https://github.com/codingo/Reconnoitre.git
 git clone https://github.com/Tib3rius/AutoRecon.git
 
+wget https://download.sysinternals.com/files/SysinternalsSuite.zip
+unzip SysinternalsSuite.zip -d ./sysinternal
+rm SysinternalsSuite.zip
+
 # Install vimrc
 git clone --depth=1 https://github.com/amix/vimrc.git /opt/vim_runtime
 sh ~/.vim_runtime/install_awesome_parameterized.sh /opt/vim_runtime user0 user1 user2
