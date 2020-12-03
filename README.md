@@ -26,6 +26,7 @@ git clone https://github.com/pentestmonkey/unix-privesc-check
 git clone https://github.com/codingo/Reconnoitre.git
 git clone https://github.com/Tib3rius/AutoRecon.git
 git clone https://github.com/pentestmonkey/finger-user-enum.git
+git clone https://github.com/steverobbins/magescan.git
 
 wget https://download.sysinternals.com/files/SysinternalsSuite.zip
 unzip SysinternalsSuite.zip -d ./sysinternal
