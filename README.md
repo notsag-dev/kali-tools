@@ -16,6 +16,8 @@ apt install shellter
 apt install powercat
 apt install theharvester
 
+apt install libguestfs-tools
+
 mkdir repositories && cd repositories
 git clone https://github.com/mzet-/linux-exploit-suggester
 git clone https://github.com/rebootuser/LinEnum.git
@@ -27,6 +29,7 @@ git clone https://github.com/codingo/Reconnoitre.git
 git clone https://github.com/Tib3rius/AutoRecon.git
 git clone https://github.com/pentestmonkey/finger-user-enum.git
 git clone https://github.com/steverobbins/magescan.git
+git clone https://github.com/411Hall/JAWS.git
 
 wget https://download.sysinternals.com/files/SysinternalsSuite.zip
 unzip SysinternalsSuite.zip -d ./sysinternal
