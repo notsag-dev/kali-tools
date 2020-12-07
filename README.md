@@ -18,6 +18,8 @@ apt install theharvester
 
 apt install libguestfs-tools
 
+pip install impacket
+
 mkdir repositories && cd repositories
 git clone https://github.com/mzet-/linux-exploit-suggester
 git clone https://github.com/rebootuser/LinEnum.git
@@ -31,6 +33,7 @@ git clone https://github.com/pentestmonkey/finger-user-enum.git
 git clone https://github.com/steverobbins/magescan.git
 git clone https://github.com/411Hall/JAWS.git
 git clone https://github.com/PowerShellMafia/PowerSploit.git
+git clone https://github.com/SecureAuthCorp/impacket.git
 
 wget https://download.sysinternals.com/files/SysinternalsSuite.zip
 unzip SysinternalsSuite.zip -d ./sysinternal
