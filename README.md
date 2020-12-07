@@ -15,6 +15,7 @@ apt install pngcheck
 apt install shellter
 apt install powercat
 apt install theharvester
+apt install neo4j
 
 apt install libguestfs-tools
 
