@@ -16,6 +16,7 @@ apt install shellter
 apt install powercat
 apt install theharvester
 apt install neo4j
+apt install hashcat
 
 apt install libguestfs-tools
 
