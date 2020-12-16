@@ -37,6 +37,7 @@ git clone https://github.com/411Hall/JAWS.git
 git clone https://github.com/PowerShellMafia/PowerSploit.git
 git clone https://github.com/SecureAuthCorp/impacket.git
 git clone https://github.com/BloodHoundAD/BloodHound.git
+git clone https://github.com/droope/droopescan.git
 
 wget https://download.sysinternals.com/files/SysinternalsSuite.zip
 unzip SysinternalsSuite.zip -d ./sysinternal
